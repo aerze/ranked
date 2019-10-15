@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/aerze/ranked/issues"
   },
-  "homepage": "https://github.com/aerze/ranked#readme"
+  "homepage": "https://github.com/aerze/ranked#readme",
+  "dependencies": {
+    "@types/jest": "^24.0.19",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2",
+    "ts-jest": "^24.1.0",
+    "ts-node-dev": "^1.0.0-pre.43",
+    "tslint": "^5.20.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.6.4"
+  }
 }
