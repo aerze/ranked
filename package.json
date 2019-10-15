@@ -1,0 +1,22 @@
+{
+  "name": "ranked",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json",
+    "test": "jest --config jestconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerze/ranked.git"
+  },
+  "author": "Abigail Suarez <abby@mythril.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aerze/ranked/issues"
+  },
+  "homepage": "https://github.com/aerze/ranked#readme"
+}
